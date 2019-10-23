@@ -1,0 +1,9 @@
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\bin\Debug\E-Elections-Server.exe.config
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\bin\Debug\E-Elections-Server.exe
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\bin\Debug\E-Elections-Server.pdb
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\obj\Debug\E-Elections-Server.csprojResolveAssemblyReference.cache
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\obj\Debug\E-Elections-Server.exe
+C:\Users\USER1\Desktop\E-Elections-Server\E-Elections-Server\obj\Debug\E-Elections-Server.pdb
+C:\Users\USER1\Source\Repos\HodayaMaskin\FinalProjectElections\E-Elections-Server\E-Elections-Server\bin\Debug\E-Elections-Server.exe.config
+C:\Users\USER1\Source\Repos\HodayaMaskin\FinalProjectElections\E-Elections-Server\E-Elections-Server\obj\Debug\E-Elections-Server.exe
+C:\Users\USER1\Source\Repos\HodayaMaskin\FinalProjectElections\E-Elections-Server\E-Elections-Server\obj\Debug\E-Elections-Server.pdb
